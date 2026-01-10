@@ -1,0 +1,7 @@
+old_column_name,new_column_name
+cust_id,Customer ID
+name,Customer Name
+email,Email Address
+order_id,Order Number
+order_date,Order Date
+total_amount,Order Total
