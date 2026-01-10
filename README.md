@@ -2,7 +2,7 @@
 
 A production-grade ETL (Extract, Transform, Load) pipeline for integrating data from OAuth2-protected REST APIs with support for complex transformations, business-user-friendly configuration, and enterprise resilience features.
 
-## Project Overview
+## 1.Project Overview
 
 This pipeline was designed to solve the challenge of extracting and transforming data from multiple related API endpoints where:
 - Data relationships require dependent fetching (child records filtered by parent IDs)
@@ -11,7 +11,7 @@ This pipeline was designed to solve the challenge of extracting and transforming
 - Token expiration can occur during long-running data fetches
 - Legacy systems require careful null handling and type compatibility
 
-## ✨ Key Features
+## 2.Key Features
 
 ### Architecture & Design
 - **Config-Driven**: All endpoints, filters, and transformations defined in configuration, not code
