@@ -92,10 +92,11 @@ def safe_merge(left_df, right_df, left_key, right_key):
 etl-pipeline/
 ├── main.py                      # Core ETL engine
 ├── config/
-│   ├── column_mappings.xlsx    # Business-controlled field mappings
-│   └── .env                     # API credentials (not in repo)
+│   ├── column_mappings.xlsx     # Business-controlled field mappings
+│   └── Column_mapping.csv       # csv mapping 
 ├── output/                      # Timestamped CSV exports
 ├── logs/                        # Daily error logs
+├── .env                         # API credentials
 └── README.md
 ```
 
