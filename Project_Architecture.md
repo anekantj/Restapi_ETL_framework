@@ -37,4 +37,5 @@
 ```
 ## Detailed Modelling
 
-![ETL Pipeline Architecture](Docs/architecture-diagram.md)
+<img width="1122" height="681" alt="image" src="https://github.com/user-attachments/assets/5537807d-eaaa-4805-acc8-ab340fea640a" />
+
