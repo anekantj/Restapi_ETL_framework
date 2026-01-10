@@ -35,6 +35,6 @@
 │  5. Export timestamped CSV                                  │
 └─────────────────────────────────────────────────────────────┘
 ```
-##Detailed Modelling
+## Detailed Modelling
 
 ![ETL Pipeline Architecture](Docs/architecture-diagram.md)
