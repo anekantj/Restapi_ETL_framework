@@ -129,3 +129,7 @@ etl-pipeline/
 - [ ] Data validation layer with configurable business rules
 - [ ] Webhook notifications on pipeline completion/failure
 - [ ] Database output support (currently set to CSV only due to legacy systems)
+
+Note: This is a demonstration/portfolio project showcasing ETL architecture patterns. All business logic and data shown are generic examples.
+
+
